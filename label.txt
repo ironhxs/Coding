@@ -1,0 +1,3 @@
+face1.jpg 25
+face2.jpg 35
+face3.jpg 45

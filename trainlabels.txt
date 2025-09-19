@@ -1,0 +1,2 @@
+traffic1.jpg 1 0 1 0 0 1 0
+traffic2.jpg 0 1 0 1 1 0 0
