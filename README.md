@@ -41,9 +41,11 @@
   - [动态规划/子序列](./note/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E5%AD%90%E5%BA%8F%E5%88%97/%E6%80%BB%E7%BB%93.md)
   - [双指针](./note/%E5%8F%8C%E6%8C%87%E9%92%88/%E6%80%BB%E7%BB%93.md)
   - [滑动窗口](./note/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3/%E6%80%BB%E7%BB%93.md)
+  - [链表](./note/%E9%93%BE%E8%A1%A8/%E6%80%BB%E7%BB%93.md)
 
 
 > 参考资源：
 > 
 > - [cpp参考站](https://legacy.cplusplus.com/reference/)
+> - [代码随想录](https://programmercarl.com/)
 > - [同学的blog](https://blog.csdn.net/weixin_51142926?type=blog)
